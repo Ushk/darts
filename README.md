@@ -1,3 +1,7 @@
+# Comments
+
+Fork of the official DARTs repo. Looking to update this to use PyTorch 0.4, and have a play around with using it on different tasks.
+
 # Differentiable Architecture Search
 Code accompanying the paper
 > [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)\
